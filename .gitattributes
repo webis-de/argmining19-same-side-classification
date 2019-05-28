@@ -1,0 +1,5 @@
+data/same-side-classification/cross-topic/training.csv filter=lfs diff=lfs merge=lfs -text
+data/stance-classification/cross-topic/training.csv filter=lfs diff=lfs merge=lfs -text
+data/same-side-classification/within-topic/training.csv filter=lfs diff=lfs merge=lfs -text
+data/stance-classification/within-topic/training.csv filter=lfs diff=lfs merge=lfs -text
+data/ filter=lfs diff=lfs merge=lfs -text
