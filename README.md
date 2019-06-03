@@ -1,4 +1,4 @@
-# RATIO 2019 Symposium . Benchmarking Workshop
+# Same Side Classification
 
 We present 1 task related to argumentation mining:
   - Same Side Classification
