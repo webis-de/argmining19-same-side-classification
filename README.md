@@ -19,6 +19,4 @@ We choose the 2 topics with highest number of arguments: abortion and gay marria
 ### Data source:
 idebate.org, debatepedia.org, debatewise.org, debate.org
 
-The data folder contains task1 and task2 training and testing data, for *cross* and *within* topics. You can split the *training* data as you like in order to train your model. After that, the model will be evaluated using the test data.
-
-
+The data folder contains the training and testing data, for *cross* and *within* topics. You can split the *training* data as you like in order to train your model. After that, the model will be evaluated using the test data.
