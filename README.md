@@ -39,5 +39,5 @@ We trained a model using lemma 3 grams for argument1 and argument2 on the traini
    - 	Macro-F1:  0.39
    - 	Micro-F1: 0.58
    
-   For more details, visit https://sameside.webis.de
+For more details, visit https://sameside.webis.de
 
