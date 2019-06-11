@@ -1,6 +1,4 @@
-
- - Prerequisite:
- Please download [Git lfs](https://git-lfs.github.com/) 
+###### Prerequisite: Please download [Git lfs](https://git-lfs.github.com/) 
  
 # [Same Side Classification](https://sameside.webis.de) 
 
