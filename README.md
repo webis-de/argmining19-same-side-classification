@@ -2,7 +2,7 @@
  - Prerequisite:
  Please download [Git lfs](https://git-lfs.github.com/) 
  
-# Same Side Classification
+# [Same Side Classification](https://sameside.webis.de) 
 
 We present 1 task related to argumentation mining:
   - Same Side Classification
